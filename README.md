@@ -21,7 +21,7 @@ When you run the program, you'll see this:
 3. Edit Exams
 4. Delete Exams
 5. Exit
-Just type a number and press enter to choose what you want to do.
+*Just type a number and press enter to choose what you want to do.
 
 
 * Important note:
