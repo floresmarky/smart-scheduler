@@ -26,7 +26,7 @@ Just type a number and press enter to choose what you want to do.
 
 
 * Important note:
-Exams are only saved while the program is open. Once you close it, date will be lost.
+Exams are only saved while the program is open. Once you close it, data will be lost.
 
 
 * Authors:
