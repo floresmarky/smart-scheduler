@@ -20,8 +20,9 @@ When you run the program, you'll see this:
 2. View All Exams
 3. Edit Exams
 4. Delete Exams
-5. Exit
-*Just type a number and press enter to choose what you want to do.
+5. Exit 
+
+Just type a number and press enter to choose what you want to do.
 
 
 * Important note:
