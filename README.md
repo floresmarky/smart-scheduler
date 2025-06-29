@@ -7,10 +7,12 @@ This is a small program that stores and helps you manage your exam schedules.
 - Editing exam details
 - Deleteting exams
 
+
 * How to use
 1. Make sure that you have a Python compiler installed.
 2. Run the program.
 3. Use the menu of the program to add, view, edit, or delete exams.
+
 
 * Here's an example:
 When you run the program, you'll see this:
@@ -21,8 +23,10 @@ When you run the program, you'll see this:
 5. Exit
 Just type a number and press enter to choose what you want to do.
 
+
 * Important note:
 Exams are only saved while the program is open. Once you close it, date will be lost.
+
 
 * Authors:
 - Marky Flores
